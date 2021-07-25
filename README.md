@@ -1,5 +1,5 @@
-# Python Challenges
->These challenges were created for educational purposes. 
+# Challenges
+>These challenges were created for educational purposes.
 
 ## Numbers
 >__Find PI to the Nth Digit__ - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. 
