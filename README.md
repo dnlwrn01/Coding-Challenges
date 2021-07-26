@@ -1,4 +1,4 @@
-# Challenges
+# Overview
 >This repository is filled with various coding callenges. These challenges are split into categories based on concept, and the resources used for solutions are included at the end of this document.
 
 ## Numbers
